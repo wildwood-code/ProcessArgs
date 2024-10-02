@@ -57,3 +57,4 @@ function tf = is_strchar(v)
 tf = ischar(v) || isstring(v);
 end
 
+% Copyright (c) 2024, Kerry S. Martin, martin@wild-wood.net
